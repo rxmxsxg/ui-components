@@ -1,0 +1,18 @@
+
+#item {
+    border: 0.5px solid #bdbdbd;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    /* height: 20px; */
+    min-width: 200px;
+}
+
+.option {
+    padding:6px;
+}
+
+#container {
+    background-color: aqua;
+    padding: 0px;
+}
